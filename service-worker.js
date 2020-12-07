@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/torre-genome-dalton/precache-manifest.c98368fe67245f21dfb2ac9a2077404c.js"
+  "/torre-genome-dalton/precache-manifest.55a0538e24de94d1ff74c9d8e3b4dc63.js"
 );
 
 workbox.clientsClaim();

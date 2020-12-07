@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/torre-genome-dalton/static/js/2.e59c6be3.chunk.js"
   },
   {
-    "revision": "5d4eb04c18b7bf10dc48ef59d1421757",
+    "revision": "79d09f147b48aae3c11f0ac7abfc9d48",
     "url": "/torre-genome-dalton/index.html"
   }
 ];
