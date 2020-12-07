@@ -6,10 +6,10 @@
   "author": "Dalton Whyte <dalton@showd.me> (http://daltonwhyte.com)",
   "license": "ISC",
   "private": true,
-  "homepage": "https://daltino.github.io/torre-genome",
+  "homepage": "https://daltino.github.io/torre-genome-dalton",
   "dependencies": {
     "axios": "^0.21.0",
-    "gh-pages": "^2.0.1",
+    "gh-pages": "^2.2.0",
     "lodash": "^4.17.20",
     "react": "^16.8.3",
     "react-dom": "^16.8.3",
