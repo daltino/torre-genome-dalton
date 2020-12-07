@@ -1,11 +1,11 @@
 self.__precacheManifest = [
   {
-    "revision": "777f665ddb6cafcf8457",
+    "revision": "db4faa469b30f09bc37b",
     "url": "/torre-genome-dalton/static/css/main.e2b12a74.chunk.css"
   },
   {
-    "revision": "777f665ddb6cafcf8457",
-    "url": "/torre-genome-dalton/static/js/main.777f665d.chunk.js"
+    "revision": "db4faa469b30f09bc37b",
+    "url": "/torre-genome-dalton/static/js/main.db4faa46.chunk.js"
   },
   {
     "revision": "38090f42cb3a002ddb13",
@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/torre-genome-dalton/static/js/2.e59c6be3.chunk.js"
   },
   {
-    "revision": "ea700a82353502b84dadbd212b92af67",
+    "revision": "8fab35804334ac7ebf36b01a6d07f13a",
     "url": "/torre-genome-dalton/index.html"
   }
 ];
