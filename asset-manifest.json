@@ -1,13 +1,13 @@
 {
-  "main.css": "/torre-genome/static/css/main.e2b12a74.chunk.css",
-  "main.js": "/torre-genome/static/js/main.f703b3fa.chunk.js",
-  "main.js.map": "/torre-genome/static/js/main.f703b3fa.chunk.js.map",
-  "runtime~main.js": "/torre-genome/static/js/runtime~main.968e5b8a.js",
-  "runtime~main.js.map": "/torre-genome/static/js/runtime~main.968e5b8a.js.map",
-  "static/js/2.e59c6be3.chunk.js": "/torre-genome/static/js/2.e59c6be3.chunk.js",
-  "static/js/2.e59c6be3.chunk.js.map": "/torre-genome/static/js/2.e59c6be3.chunk.js.map",
-  "index.html": "/torre-genome/index.html",
-  "precache-manifest.0090a30cbe1220490c1a44aab641cbc5.js": "/torre-genome/precache-manifest.0090a30cbe1220490c1a44aab641cbc5.js",
-  "service-worker.js": "/torre-genome/service-worker.js",
-  "static/css/main.e2b12a74.chunk.css.map": "/torre-genome/static/css/main.e2b12a74.chunk.css.map"
+  "main.css": "/torre-genome-dalton/static/css/main.e2b12a74.chunk.css",
+  "main.js": "/torre-genome-dalton/static/js/main.777f665d.chunk.js",
+  "main.js.map": "/torre-genome-dalton/static/js/main.777f665d.chunk.js.map",
+  "runtime~main.js": "/torre-genome-dalton/static/js/runtime~main.38090f42.js",
+  "runtime~main.js.map": "/torre-genome-dalton/static/js/runtime~main.38090f42.js.map",
+  "static/js/2.e59c6be3.chunk.js": "/torre-genome-dalton/static/js/2.e59c6be3.chunk.js",
+  "static/js/2.e59c6be3.chunk.js.map": "/torre-genome-dalton/static/js/2.e59c6be3.chunk.js.map",
+  "index.html": "/torre-genome-dalton/index.html",
+  "precache-manifest.f49fc2287e49e9004a072b970baec702.js": "/torre-genome-dalton/precache-manifest.f49fc2287e49e9004a072b970baec702.js",
+  "service-worker.js": "/torre-genome-dalton/service-worker.js",
+  "static/css/main.e2b12a74.chunk.css.map": "/torre-genome-dalton/static/css/main.e2b12a74.chunk.css.map"
 }

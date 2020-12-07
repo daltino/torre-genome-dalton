@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/torre-genome/precache-manifest.0090a30cbe1220490c1a44aab641cbc5.js"
+  "/torre-genome-dalton/precache-manifest.f49fc2287e49e9004a072b970baec702.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/torre-genome/index.html", {
+workbox.routing.registerNavigationRoute("/torre-genome-dalton/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
