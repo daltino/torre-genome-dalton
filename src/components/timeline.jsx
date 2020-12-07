@@ -15,8 +15,8 @@ export default class Timeline extends Component {
             <div className="row">
               <div className="col-md-12">
                 <div className="timeline-centered">
-                  {this.props.experiences.map(experience => (
-                    <article className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
+                  {this.props.experiences.map((experience, idx) => (
+                    <article key={idx} className="timeline-entry animate-box" data-animate-effect="fadeInLeft">
                       <div className="timeline-entry-inner">
                         <div className="timeline-icon color-3">
                           <i className="icon-pen2" />

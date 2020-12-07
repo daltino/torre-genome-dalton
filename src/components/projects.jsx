@@ -13,8 +13,8 @@ export default class Projects extends Component {
 							</div>
 						</div>
 						<div className="row">
-							{this.props.projects.map(project => (
-								<div className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
+							{this.props.projects.map((project, idx) => (
+								<div key={idx} className="col-md-4 animate-box" data-animate-effect="fadeInLeft">
 									<div className="project" style={{backgroundImage: `url(${project.organizations.picture})`}}>
 										<div className="desc">
 											<div className="con">

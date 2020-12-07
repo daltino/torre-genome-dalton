@@ -30,8 +30,8 @@ export default class About extends Component {
             </div>
             </div>
             <div className="row row-pt-md">
-                {this.props.skills.map(skill => (
-                    <div className="col-md-4 text-center animate-box">
+                {this.props.skills.map((skill, idx) => (
+                    <div key={idx} className="col-md-4 text-center animate-box">
                         <div className="services color-1">
                         <span className="icon">
                             <i className="icon-bulb" />

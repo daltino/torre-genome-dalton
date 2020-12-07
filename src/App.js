@@ -60,7 +60,8 @@ class App extends Component {
                   <About
                     summary={this.state.summaryOfBio}
                     skills={this.state.strengths}></About>
-                  <Timeline></Timeline>
+                  <Timeline
+                    experiences={this.state.experiences}></Timeline>
                 </div>
               </>
             :
